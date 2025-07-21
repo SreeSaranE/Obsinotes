@@ -107,4 +107,3 @@ Obsinotes is a mobile-first, markdown-based note-taking application inspired by 
 - [ ] Sync system for uploading/downloading notes
 
 ---
-
