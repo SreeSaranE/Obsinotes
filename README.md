@@ -45,7 +45,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/obsinotes.git
+git clone https://github.com/SreeSaranE/obsinotes.git
 cd obsinotes
 yarn install
 # or
