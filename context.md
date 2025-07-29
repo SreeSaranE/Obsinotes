@@ -89,12 +89,6 @@ Obsinotes is a mobile-first, markdown-based note-taking application inspired by 
 
 ---
 
-## Naming/Branding Notes
-
-- **Name**: Obsinotes = *Obsidian-inspired Notes*
-- **Logo**: TBD – Minimalist glyph or pen-in-vault icon
-
----
 
 ## Initial TODOs
 
