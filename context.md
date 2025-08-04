@@ -92,7 +92,7 @@ Obsinotes is a mobile-first, markdown-based note-taking application inspired by 
 
 ## Initial TODOs
 
-- [ ] Define Folder and Note schema
+- [x] Define Folder and Note schema
 - [ ] Decide on Markdown renderer
 - [ ] Create Firebase project + Firestore schema
 - [ ] Build base UI layout with React Native
