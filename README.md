@@ -22,7 +22,9 @@
 > _Coming soon..._
 
 ---
-
+## Workflow
+- [ ] basic Note taking option
+---
 ## ⚙️ Tech Stack
 
 - **Frontend**: React Native (Expo or CLI)
